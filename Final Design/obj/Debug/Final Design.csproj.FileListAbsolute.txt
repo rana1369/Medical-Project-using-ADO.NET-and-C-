@@ -1,0 +1,90 @@
+D:\ITI- .NET\Final Design\Final Design\bin\Debug\Final Design.exe.config
+D:\ITI- .NET\Final Design\Final Design\bin\Debug\Final Design.exe
+D:\ITI- .NET\Final Design\Final Design\bin\Debug\Final Design.pdb
+D:\ITI- .NET\Final Design\Final Design\obj\Debug\Final Design.csproj.AssemblyReference.cache
+D:\ITI- .NET\Final Design\Final Design\obj\Debug\Final Design.csproj.SuggestedBindingRedirects.cache
+D:\ITI- .NET\Final Design\Final Design\obj\Debug\Final_Design.Home.resources
+D:\ITI- .NET\Final Design\Final Design\obj\Debug\Final_Design.LogIn.resources
+D:\ITI- .NET\Final Design\Final Design\obj\Debug\Final_Design.Properties.Resources.resources
+D:\ITI- .NET\Final Design\Final Design\obj\Debug\Medical_Project.Splash.resources
+D:\ITI- .NET\Final Design\Final Design\obj\Debug\Final Design.csproj.GenerateResource.cache
+D:\ITI- .NET\Final Design\Final Design\obj\Debug\Final Design.csproj.CoreCompileInputs.cache
+D:\ITI- .NET\Final Design\Final Design\obj\Debug\Final Design.exe
+D:\ITI- .NET\Final Design\Final Design\obj\Debug\Final Design.pdb
+D:\ITI- .NET\Final Design\Final Design\obj\Debug\Medicine_Store.Form1.resources
+C:\Users\Lenovo\Downloads\Final Design\Final Design\bin\Debug\Final Design.exe.config
+C:\Users\Lenovo\Downloads\Final Design\Final Design\bin\Debug\Final Design.exe
+C:\Users\Lenovo\Downloads\Final Design\Final Design\bin\Debug\Final Design.pdb
+C:\Users\Lenovo\Downloads\Final Design\Final Design\obj\Debug\Final Design.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Final Design\Final Design\obj\Debug\Final Design.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Downloads\Final Design\Final Design\obj\Debug\Final_Design.Home.resources
+C:\Users\Lenovo\Downloads\Final Design\Final Design\obj\Debug\Final_Design.LogIn.resources
+C:\Users\Lenovo\Downloads\Final Design\Final Design\obj\Debug\Final_Design.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Final Design\Final Design\obj\Debug\Medical_Project.Splash.resources
+C:\Users\Lenovo\Downloads\Final Design\Final Design\obj\Debug\Final Design.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Final Design\Final Design\obj\Debug\Final Design.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Final Design\Final Design\obj\Debug\Final Design.exe
+C:\Users\Lenovo\Downloads\Final Design\Final Design\obj\Debug\Final Design.pdb
+C:\Users\Lenovo\Downloads\Final Design\Final Design\obj\Debug\Medicine_Store.medicine.resources
+C:\Users\Lenovo\Downloads\Final Design\Final Design\obj\Debug\Medicine_Store.Form1.resources
+C:\Users\Lenovo\Downloads\Final Design\Final Design\obj\Debug\Final_Design.Make_Order.resources
+C:\Users\Lenovo\Downloads\Final Design\Final Design\obj\Debug\Final_Design.Forget_Password.resources
+F:\downloads\Final Design\Final Design\bin\Debug\Final Design.exe.config
+F:\downloads\Final Design\Final Design\bin\Debug\Final Design.exe
+F:\downloads\Final Design\Final Design\bin\Debug\Final Design.pdb
+F:\downloads\Final Design\Final Design\obj\Debug\Final Design.csproj.AssemblyReference.cache
+F:\downloads\Final Design\Final Design\obj\Debug\Final_Design.Forget_Password.resources
+F:\downloads\Final Design\Final Design\obj\Debug\Medicine_Store.Form1.resources
+F:\downloads\Final Design\Final Design\obj\Debug\Final_Design.Make_Order.resources
+F:\downloads\Final Design\Final Design\obj\Debug\Medicine_Store.medicine.resources
+F:\downloads\Final Design\Final Design\obj\Debug\Final_Design.Home.resources
+F:\downloads\Final Design\Final Design\obj\Debug\Final_Design.LogIn.resources
+F:\downloads\Final Design\Final Design\obj\Debug\Final_Design.Properties.Resources.resources
+F:\downloads\Final Design\Final Design\obj\Debug\Medical_Project.Splash.resources
+F:\downloads\Final Design\Final Design\obj\Debug\Final Design.csproj.GenerateResource.cache
+F:\downloads\Final Design\Final Design\obj\Debug\Final Design.csproj.CoreCompileInputs.cache
+F:\downloads\Final Design\Final Design\obj\Debug\Final Design.exe
+F:\downloads\Final Design\Final Design\obj\Debug\Final Design.pdb
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\Final Design.exe.config
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\Final Design.exe
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\Final Design.pdb
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\BLL.dll
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\DAL.dll
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\CrystalDecisions.Shared.dll
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\stdole.dll
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\BLL.pdb
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\BLL.dll.config
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\DAL.pdb
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\DAL.dll.config
+F:\downloads\New folder\Final Design\Final Design\obj\Debug\Final Design.csproj.AssemblyReference.cache
+F:\downloads\New folder\Final Design\Final Design\obj\Debug\Final_Design.Forget_Password.resources
+F:\downloads\New folder\Final Design\Final Design\obj\Debug\Medicine_Store.Form1.resources
+F:\downloads\New folder\Final Design\Final Design\obj\Debug\Final_Design.Make_Order.resources
+F:\downloads\New folder\Final Design\Final Design\obj\Debug\Medicine_Store.medicine.resources
+F:\downloads\New folder\Final Design\Final Design\obj\Debug\Final_Design.Home.resources
+F:\downloads\New folder\Final Design\Final Design\obj\Debug\Final_Design.LogIn.resources
+F:\downloads\New folder\Final Design\Final Design\obj\Debug\Final_Design.Properties.Resources.resources
+F:\downloads\New folder\Final Design\Final Design\obj\Debug\Medical_Project.Splash.resources
+F:\downloads\New folder\Final Design\Final Design\obj\Debug\Final Design.csproj.GenerateResource.cache
+F:\downloads\New folder\Final Design\Final Design\obj\Debug\Final Design.csproj.CoreCompileInputs.cache
+F:\downloads\New folder\Final Design\Final Design\obj\Debug\Final Design.csproj.CopyComplete
+F:\downloads\New folder\Final Design\Final Design\obj\Debug\Final Design.exe
+F:\downloads\New folder\Final Design\Final Design\obj\Debug\Final Design.pdb
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\Medicine Store.exe
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\Medicine Store.pdb
+F:\downloads\New folder\Final Design\Final Design\bin\Debug\Medicine Store.exe.config
